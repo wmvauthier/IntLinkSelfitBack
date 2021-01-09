@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "us-cdbr-iron-east-01.cleardb.net",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "heroku_4cd67c5c93b3547",
+            "password": "cef27e70",
+            "username": "bf0baa330612ad",
+            "name": "OBPC-System"
+        }
+    ]
+}
